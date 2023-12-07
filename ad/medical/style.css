@@ -28,7 +28,7 @@ h2 {
 }
 /* fv-area */
 .fv-area {
-    padding: 50px 0 10px 0;
+    padding: 20px 0 10px 0;
     background-image: url(./images/fv-bg-img.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -36,17 +36,17 @@ h2 {
 }
 .fv-area > .container > div > .logo {
     display: block;
-    width: 60%;
-    margin: 0 auto 30px auto;
+    width: 50%;
+    margin: 0 auto 20px auto;
 }
 .fv-area > .container > div > .fv-img {
     display: block;
-    width: 80%;
+    width: 75%;
     margin: 20px auto;
 }
 .fv-area > .container > p {
     text-align: center;
-    line-height: 2;
+    line-height: 1.8;
     font-weight: bold;
     color: #333333;
     text-shadow: 4px 4px 4px #ffffff, -4px -4px 4px #ffffff, -4px 4px 4px #ffffff, 4px -4px 4px #ffffff, 4px 0 4px #ffffff, -4px 0 4px #ffffff, 0 4px 4px #ffffff, 0 -4px 4px #ffffff;
